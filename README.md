@@ -13,7 +13,7 @@ the requirements from the horses mouth.
 If you are intereste din my comments and approach I
 invite you to read the following post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/12/09/leetcode-575-distribute-candies-in-java/
 
 Keep in mind that one of the best ways to learn is
 to read and experiment. Practice makes perfect.
